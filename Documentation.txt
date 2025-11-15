@@ -30,9 +30,9 @@ Step 3
 
 Go into the following path of cloned code "application-code/app-tier/DbConfig.js" and open 'Dbconfig.js' file and change the things accordingly as shown below;
 module.exports = Object.freeze({
-    DB_HOST: 'YOUR-DATABASE-ENDPOINT.ap-south-1.rds.amazonaws.com',
+    DB_HOST: 'database-3tier.ce566seqea1a.us-east-1.rds.amazonaws.com',
     DB_USER: 'admin',
-    DB_PWD: 'kastro2025',
+    DB_PWD: 'ranjeet2025',
     DB_DATABASE: 'webappdb'
 });
 
